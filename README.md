@@ -21,7 +21,7 @@ Grasping is fundamental to robotic manipulation, and recent advances in large-sc
 
 ## 📦 Dataset Download
 The complete dataset can be downloaded from:  
-👉 [UCLA Box]([xxx](https://ucla.box.com/s/zc1fxvv2cj5ynodtoirykojggqw051g7)) 
+👉 [UCLA Box](https://ucla.box.com/s/zc1fxvv2cj5ynodtoirykojggqw051g7) 
 
 Due to its large size, the dataset archive `finray_soft_837.tar.gz` is split into multiple chunks (each under 40 GB). The folder structure is as follows:
 
