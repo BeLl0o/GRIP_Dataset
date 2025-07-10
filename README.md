@@ -198,5 +198,3 @@ This work and the dataset are licensed under [CC BY-NC 4.0](https://creativecomm
 If you have any questions, please open a github issue or contact us:
 
 Siyu Ma: <siiyuma@outlook.com>, Wenxin Du: <setsunainn@gmail.com>, Chang Yu: <g1n0st@live.com>, Chenfanfu Jiang: <chenfanfu.jiang@gmail.com>
-
-# GRIP_Dataset
